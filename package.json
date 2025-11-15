@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "challenge-3-bagusgiovani-sys",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/mn9ehZLa)\r # Challenge 3 - The Interactive Calculator & Data Analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WPH-Bootcamp/challenge-3-bagusgiovani-sys.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WPH-Bootcamp/challenge-3-bagusgiovani-sys/issues"
+  },
+  "homepage": "https://github.com/WPH-Bootcamp/challenge-3-bagusgiovani-sys#readme"
 }
